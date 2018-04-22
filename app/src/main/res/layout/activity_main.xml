@@ -16,7 +16,6 @@
         android:layout_marginStart="24dp"
         android:layout_marginTop="24dp"
         android:background="@android:color/holo_green_dark"
-        android:spinnerMode="dialog"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
